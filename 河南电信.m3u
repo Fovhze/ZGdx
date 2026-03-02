@@ -1,5 +1,4 @@
 #EXTM3U
-央视,#genre#
 #EXTINF:-1,CCTV-1综合
 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 #EXTINF:-1,CCTV-2财经
@@ -56,7 +55,6 @@ http://222.85.69.6/PLTV/88888888/224/3221227333/index.m3u8
 http://123.160.108.15:6610/PLTV1/190141/1.m3u8?
 #EXTINF:-1,广东卫视4K
 http://123.160.108.15:6610/PLTV1/190142/1.m3u8?
-卫视,#genre#
 #EXTINF:-1,河南卫视
 http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 #EXTINF:-1,浙江卫视
@@ -259,4 +257,5 @@ http://219.150.217.47:6610/PLTV2/2160/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV2/3720/index.m3u8?icpid=dxrm1
 #EXTINF:-1,渑池TV
 http://219.150.217.47:6610/PLTV2/3860/index.m3u8?icpid=dxrm1
+
 
